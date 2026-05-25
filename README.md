@@ -1,4 +1,4 @@
-# Hey, I'm Fabian Klemenz 👋
+# Hey, I'm Fabian Klemenz 
 
 🚑 Currently working as an Emergency Paramedic in Austria  
 💻 Transitioning into Frontend Development on the side
@@ -32,7 +32,7 @@ My goal: land a remote frontend job and build a life on my own terms.
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-klemenz.f@outlook.com-blue?style=for-the-badge&logo=microsoft-outlook)](mailto:klemenz.f@outlook.com)  Hi there 👋
+[![Email](https://img.shields.io/badge/Email-klemenz.f@outlook.com-blue?style=for-the-badge&logo=microsoft-outlook)](mailto:klemenz.f@outlook.com)  
 
 <!--
 **Klmnz96/Klmnz96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
