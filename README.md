@@ -30,12 +30,6 @@ My goal: land a remote frontend job and build a life on my own terms.
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Klmnz96/Klmnz96/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Klmnz96/Klmnz96/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Klmnz96/Klmnz96/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-klemenz.f@outlook.com-blue?style=for-the-badge&logo=microsoft-outlook)](mailto:klemenz.f@outlook.com)  
