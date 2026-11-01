@@ -7,9 +7,9 @@ I work as an EMT (Rettungssanitäter) in a hospital in Carinthia and I'm retrain
 
 Twelve-hour hospital shifts taught me to stay calm under pressure, explain things clearly and double-check the details. I bring the same habits to code.
 
-**Get in touch:** [klemenz.f@outlook.com](mailto:klemenz.f@outlook.com)
-<!-- LinkedIn: replace YOUR-PROFILE, remove the comment tags and add it to the line above
- &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
+[![Email](https://img.shields.io/badge/Email-klemenz.f%40outlook.com-0f1a2b?style=for-the-badge&labelColor=d12f34)](mailto:klemenz.f@outlook.com)
+<!-- LinkedIn: replace YOUR-PROFILE and remove the comment tags
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabian_Klemenz-0f1a2b?style=for-the-badge&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-PROFILE)
 -->
 
 ## Projects
@@ -53,9 +53,16 @@ Every screenshot opens the live site.
       <p><a href="https://klmnz96.github.io/Weather-App/">Live demo</a> &nbsp;|&nbsp; <a href="https://github.com/Klmnz96/Weather-App">Code</a><br><sub>JavaScript, REST API, localStorage</sub></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Klmnz96/Gambit"><img src="assets/projects/gambit.jpg" alt="Gambit chess app: a knight is selected, its legal squares are marked and the trainer explains how the knight moves"></a>
+    </td>
+    <td width="50%" valign="top">
+      <p><b>Gambit</b> &nbsp;<sub>in progress</sub><br>Browser chess with a built-in trainer that teaches beginners while they play. Select a piece and the trainer explains how it moves and marks every legal square. Two players on one device or against the computer.</p>
+      <p><a href="https://github.com/Klmnz96/Gambit">Code</a> &nbsp;|&nbsp; Live demo coming soon<br><sub>HTML, CSS, JavaScript</sub></p>
+    </td>
+  </tr>
 </table>
-
-Currently building [**Gambit**](https://github.com/Klmnz96/Gambit), browser chess with a built-in trainer that teaches beginners while they play.
 
 ## How I work
 
@@ -66,9 +73,15 @@ Currently building [**Gambit**](https://github.com/Klmnz96/Gambit), browser ches
 
 ## Tech stack
 
+### Daily use
+
 [![HTML, CSS, JavaScript, Bootstrap, Git, GitHub, VS Code, Figma, Firebase](https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode,figma,firebase)](https://skillicons.dev)
 
-Up next: Angular, then the backend part of my training.
+### Up next
+
+[![Angular, Python, Node.js](https://skillicons.dev/icons?i=angular,py,nodejs)](https://skillicons.dev)
+
+Angular for the frontend, then Python and Node.js in the backend part of my training.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Klmnz96/Klmnz96/pacman-output/pacman-contribution-graph-dark.svg">
