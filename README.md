@@ -8,7 +8,11 @@ I work as an EMT (Rettungssanitäter) in a hospital in Carinthia and I'm retrain
 Twelve-hour hospital shifts taught me to stay calm under pressure, explain things clearly and double-check the details. I bring the same habits to code.
 
 [![Email](https://img.shields.io/badge/Email-klemenz.f%40outlook.com-0f1a2b?style=for-the-badge&labelColor=d12f34)](mailto:klemenz.f@outlook.com)
+<<<<<<< HEAD
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabian_Klemenz-0f1a2b?style=for-the-badge&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-klemenz/)
+=======
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabian_Klemenz-0f1a2b?style=for-the-badge&labelColor=0A66C2&logo=linkedin&logoColor=white)](www.linkedin.com/in/fabian-klemenz)
+>>>>>>> 38b4858d0bed4adf9971bdfd9b4f0316142059d4
 
 ## Projects
 
